@@ -226,7 +226,7 @@ IDE_Morph.prototype.init = function (isAutoFill) {
     this.projectName = '';
     this.projectNotes = '';
 
-    this.logoURL = this.resourceURL('snap_logo_sm.png');
+    this.logoURL = this.resourceURL('all-dream-logo.png');
     this.logo = null;
     this.controlBar = null;
     this.categories = null;
